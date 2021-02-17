@@ -1,4 +1,6 @@
-public class RemoveDuplicates {
+package main.java;
+
+public class RemoveDuplicatesSorted {
 
     public int removeDuplicates(int[] nums) {
 
